@@ -1,5 +1,5 @@
 #For Learn Git
-#Automatically delete head branches 
+#2nd Automatically delete head branches 
 
 A = [1,2,3,4,5]
 B = [6,7,8,9,0]
